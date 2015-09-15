@@ -9,7 +9,7 @@ Installation & allowing access to all users.
 ```
 $user: gcc backlight.c
 $user: su 
-$root: mv a.out /usr/share/bin/backlight.c
+$root: mv a.out /usr/share/bin/backlight
 $root: chmod +s !$
 $root: exit
 ``` 
