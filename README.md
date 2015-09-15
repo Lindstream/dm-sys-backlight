@@ -1,4 +1,4 @@
-Dream Machine System Utilities: Intel Backlight
+Dream Machine: Intel Backlight
 ==============================
 Neat backlight setter/getter written in C for Intel graphics.
 
@@ -10,6 +10,6 @@ Installation & allowing access to all users.
 $user: gcc backlight.c
 $user: su 
 $root: mv a.out /usr/share/bin/backlight.c
-$root: cmod +s !$
+$root: chmod +s !$
 $root: exit
 ``` 
